@@ -6,10 +6,6 @@
   margin-bottom: 4px;
 }
 
-.header__menu {
-
-}
-
 .header__links-list {
   display: flex;
   gap: 33px;
@@ -24,7 +20,7 @@
 }
 
 .header__links-list-item_no-bullit {
-  list-style-type: none; 
+  list-style-type: none;
 }
 
 .header__link {
@@ -40,10 +36,6 @@
   margin-left: 4px;
   width: 148px;
   height: 105px;
-}
-
-.header__logo-image {
-  
 }
 
 .address {
@@ -131,10 +123,6 @@
   text-transform: uppercase;
   text-align: center;
   color: #fff;
-}
-
-.lots {
-
 }
 
 .lots__heading {
